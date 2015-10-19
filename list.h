@@ -2,6 +2,7 @@
 	>File_name:list.h
 	>Creator:chenwengen
 	>E-mail:xynhcwg@163.com
+	>Source:Master Alogritbms with C
 	>Time:2015/10/19,16:30
 *****************************************/
 #ifndef LIST_H
