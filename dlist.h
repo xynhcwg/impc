@@ -2,6 +2,7 @@
 	>File_name:dlist.h
 	>Creator:chenwengen
 	>E-mail:xynhcwg@163.com
+	>Source:Master Algoritbms with C
 	>Time:2015/10/19,16:40
 **********************************/
 #ifndef DLIST_H
