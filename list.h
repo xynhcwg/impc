@@ -1,3 +1,9 @@
+/***********************list*************
+	>File_name:list.h
+	>Creator:chenwengen
+	>E-mail:xynhcwg@163.com
+	>Time:2015/10/19,16:30
+*****************************************/
 #ifndef LIST_H
 #define LIST_H
 
@@ -29,6 +35,6 @@ int list_rem_next(List *list,ListElmt *element,void **data);
 #define list_data(element) ((element)->data);
 #define list_next(element) ((element)->next);
 #define list_is_head(list,element) (element == ((list)->head)?1:0);
-#define list_is_tail(element) (element->next == NULL?1:0);
+#define list_is_tail(element) ((element)->next == NULL?1:0);
 
 #endif

@@ -1,3 +1,9 @@
+/**************list************
+	>File_name:list.c
+	>Creator:chenwengen
+	>E-mail:xynhcwg@163.com
+	>Time:2015/10/19,16:35
+*******************************/
 #include <stdlib.h>
 #include <string.h>
 
